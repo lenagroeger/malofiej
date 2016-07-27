@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 776 333" style="enable-background:new 0 0 776 333;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{fill:none;stroke:#515151;stroke-miterlimit:10;}
+	.st2{fill:#CC4B2B;}
+	.st3{fill:none;stroke:#CC4B2B;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st4{fill:none;}
+	.st5{fill:#FFFFFF;}
+	.st6{font-family:'FranklinGothic-Book';}
+	.st7{font-size:18px;}
+	.st8{font-size:22.5px;}
+	.st9{font-size:19.5px;}
+</style>
+<rect x="6" y="68" class="st0" width="759" height="496"/>
+<line class="st1" x1="142.5" y1="82.8" x2="420" y2="82.8"/>
+<line class="st1" x1="142.5" y1="138.2" x2="420" y2="138.2"/>
+<line class="st1" x1="142.5" y1="191.1" x2="420" y2="191.1"/>
+<line class="st1" x1="142.5" y1="248.1" x2="420" y2="248.1"/>
+<line class="st1" x1="529.1" y1="82.8" x2="760.1" y2="82.8"/>
+<line class="st1" x1="529.1" y1="138.2" x2="760.1" y2="138.2"/>
+<line class="st1" x1="529.1" y1="191.1" x2="760.1" y2="191.1"/>
+<line class="st1" x1="529.1" y1="248.1" x2="760.1" y2="248.1"/>
+<rect x="187.5" y="121" class="st2" width="66" height="127.5"/>
+<rect x="315" y="96.7" class="st2" width="66" height="151.8"/>
+<g>
+	<g>
+		<line class="st3" x1="579.8" y1="123.1" x2="693.4" y2="97.6"/>
+		<g>
+			<ellipse transform="matrix(0.9758 -0.2187 0.2187 0.9758 -12.8619 129.8525)" class="st2" cx="580" cy="123" rx="4.5" ry="4.5"/>
+		</g>
+		<g>
+			
+				<ellipse transform="matrix(0.9758 -0.2187 0.2187 0.9758 -4.5709 153.9958)" class="st2" cx="693.2" cy="97.6" rx="4.5" ry="4.5"/>
+		</g>
+	</g>
+</g>
+<rect x="192.5" y="260.5" class="st4" width="84" height="35.2"/>
+<text transform="matrix(1 0 0 1 192.5 272.5059)" class="st5 st6 st7">Female</text>
+<rect x="330.5" y="260.5" class="st4" width="68.3" height="24"/>
+<text transform="matrix(1 0 0 1 330.4707 272.5059)" class="st5 st6 st7">Male</text>
+<rect x="548.1" y="260.5" class="st4" width="91.5" height="35.2"/>
+<text transform="matrix(1 0 0 1 548.1057 272.5059)" class="st5 st6 st7">Female</text>
+<rect x="679.1" y="260.5" class="st4" width="64.5" height="24"/>
+<text transform="matrix(1 0 0 1 679.0764 272.5059)" class="st5 st6 st7">Male</text>
+<rect y="123.8" class="st4" width="82.4" height="97.5"/>
+<text transform="matrix(1 0 0 1 10.4961 138.8345)"><tspan x="0" y="0" class="st5 st6 st8">Height </tspan><tspan x="-6.9" y="27" class="st5 st6 st8">(inches)</tspan></text>
+<rect x="105" y="132.2" class="st4" width="111" height="55.5"/>
+<text transform="matrix(1 0 0 1 105 145.2563)" class="st5 st6 st9">40</text>
+<rect x="105" y="78.2" class="st4" width="111" height="55.5"/>
+<text transform="matrix(1 0 0 1 105 91.2563)" class="st5 st6 st9">60</text>
+<rect x="105" y="240.2" class="st4" width="111" height="55.5"/>
+<text transform="matrix(1 0 0 1 105 252.2559)" class="st5 st6 st7">  0</text>
+<rect x="105" y="186.2" class="st4" width="111" height="55.5"/>
+<text transform="matrix(1 0 0 1 105 199.2563)" class="st5 st6 st9">20</text>
+<rect x="479.2" y="132.2" class="st4" width="111" height="55.5"/>
+<text transform="matrix(1 0 0 1 479.2207 145.2563)" class="st5 st6 st9">40</text>
+<rect x="479.2" y="78.2" class="st4" width="111" height="55.5"/>
+<text transform="matrix(1 0 0 1 479.2207 91.2563)" class="st5 st6 st9">60</text>
+<rect x="479.2" y="240.2" class="st4" width="111" height="55.5"/>
+<text transform="matrix(1 0 0 1 479.2207 252.2559)" class="st5 st6 st7">  0</text>
+<rect x="479.2" y="186.2" class="st4" width="111" height="55.5"/>
+<text transform="matrix(1 0 0 1 479.2207 199.2563)" class="st5 st6 st9">20</text>
+</svg>

@@ -1,0 +1,94 @@
+Data & Science
+
+We tend to think our minds work pretty well, that stuff like data and statistics we get. We're scientists, right?
+
+Wrong.
+
+
+Examples of the ways our minds work weirdly.
+
+Waiting in Line:
+http://www.nytimes.com/2012/08/19/opinion/sunday/why-waiting-in-line-is-torture.html
+
+SOME years ago, executives at a Houston airport faced a troubling customer-relations issue. Passengers were lodging an inordinate number of complaints about the long waits at baggage claim. In response, the executives increased the number of baggage handlers working that shift. The plan worked: the average wait fell to eight minutes, well within industry benchmarks. But the complaints persisted.
+
+Puzzled, the airport executives undertook a more careful, on-site analysis. They found that it took passengers a minute to walk from their arrival gates to baggage claim and seven more minutes to get their bags. Roughly 88 percent of their time, in other words, was spent standing around waiting for their bags.
+
+So the airport decided on a new approach: instead of reducing wait times, it moved the arrival gates away from the main terminal and routed bags to the outermost carousel. Passengers now had to walk six times longer to get their bags. Complaints dropped to near zero.
+
+
+What you had for lunch:
+LUNCH matters for parole http://www.pnas.org/content/108/17/6889.abstract
+
+Grading:
+Thaler's example of redoing grade levels.
+
+Doctor 90-10 framing:
+Kahneman and Tversky also emphasized the importance of “framing.” Suppose that your doctor asks you to consider whether to have some operation for a serious illness, and he tells you that of 100 people who have that operation, 90 are alive after five years. You might well ask him to go forward. But suppose he tells you that of 100 people who have the operation, 10 are dead after five years. You might well hesitate. The influence of “frames” shows the pervasive impact of supposedly irrelevant factors (in Thaler’s shorthand, SIFs), which economic theory deems immaterial, but which can have a large effect on what people end up doing.
+
+
+So clearly, trivial matters can effect how we make decisions and interpret information. But what about in the world of graphics?
+
+Well, visual information carries a huge weight.
+But visual displays can also effect our decisions.
+http://www.psychologicalscience.org/index.php/news/releases/the-trustworthiness-of-an-inmates-face-may-seal-his-fate.html
+
+"The perceived trustworthiness of an inmate’s face may determine the severity of the sentence he receives, according to new research using photos and sentencing data for inmates in the state of Florida. The research, published in Psychological Science, a journal of the Association for Psychological Science, reveals that inmates whose faces were rated as low in trustworthiness by independent observers were more likely to have received the death sentence than inmates whose faces were perceived as more trustworthy, even when the inmates were later exonerated of the crime."
+
+Brains scans are taken as more credible in courtrooms
+http://scienceline.org/2010/10/the-brain-scan-appeal/
+
+Finally, simple visuals can have quite an unconcious effect: Better aim in urinals
+http://www.npr.org/templates/story/story.php?storyId=121310977
+
+
+
+So... visuals have quite a responsibility. Are we holding up our end of the bargain?
+
+1. Understanding the mind to make better graphics
+
+Examples of the ways our minds interpret graphics in non sensical ways.
+Line Chart vs Bar Chart
+Correlation vs Causation https://i.imgur.com/PedqQ.jpg
+Only 63% of Americans can read a scatter plot:
+http://www.pewresearch.org/fact-tank/2015/09/16/the-art-and-science-of-the-scatterplot/
+
+We forget that reading a bar chart or line chart is also a skill: Old visualization with a paragraph of text instructions underneath. [ASK SCOTT FOR EXAMPLE]
+
+
+Way forward:
+Understand how we interpret graphics and take advantage of our minds capabilities and curiosities to display data:
+Chernoff faces
+Workers comp.
+
+
+Now I want to flip it. Instead of looking at how our minds inform our interpretation of graphics, I want to look at what I see as a growing trend in data visualization in newsrooms: using graphics to inform us of the quirks of our mind.
+
+2. Using graphics to show us our minds
+
+
+ILLUSIONS
+https://www.youtube.com/watch?v=G-lN8vWm3m0
+Invisible Gorilla
+Diff Length Tables
+Diff Color Grays
+Curved Lines vs Straight
+Dog pattern
+http://www.nobeliefs.com/puzzles/illusions.htm
+http://blog.crew.co/the-priming-effect-why-youre-less-in-control-of-your-actions-than-you-think/
+
+MAGIC!
+Scientists are using tips from magicians to help them understand our minds
+
+
+CURRENT EXAMPLES/FUTURE
+Even better, use graphics to show people how their minds work!
+
+Graphics that reveal how much our minds fool us
+http://www.nytimes.com/interactive/2012/10/05/business/economy/one-report-diverging-perspectives.html?_r=0
+
+http://fivethirtyeight.com/features/science-isnt-broken/
+
+http://www.nytimes.com/interactive/2015/08/13/upshot/are-you-smarter-than-other-new-york-times-readers.html
+
+Best behavioral science graphics: http://economicspsychologypolicy.blogspot.com/2013/12/the-15-best-behavioural-science-graphs.html
